@@ -1,0 +1,29 @@
+*{
+    background-color:darkseagreen;
+    color: black;
+}
+#brand{
+    margin-left: 80vh;
+    height: 4vh;
+background-color:lightgreen ;
+}
+#model{
+    height: 4vh;
+background-color:lightgreen ;
+}
+#title{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color: darkgreen;
+}
+ .resultpera{
+    font-size:large;
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color: darkgreen;
+ }
